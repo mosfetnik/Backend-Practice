@@ -1,0 +1,1 @@
+This is the simple string literal sample: labrador 1743442315070
